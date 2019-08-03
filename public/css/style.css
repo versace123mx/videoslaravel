@@ -1,0 +1,14 @@
+body{
+}
+.video-image-mask{
+    height: 90px;
+    overflow: hidden;
+    border-radius:150px;
+    border: solid #e0ebeb;
+}
+.data a{
+    text-decoration: none;
+}
+.error{
+    color:red;
+}
